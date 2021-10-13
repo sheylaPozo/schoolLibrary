@@ -4,6 +4,16 @@
 ---
 # schoolLibrary
 
+Imagine that you are the librarian of OOP University, and you need a tool to record what books are in the library and who borrows them. The app that you will create will allow a you to:
+
+    - Add new students or teachers.
+
+    - Add new books.
+
+    - Save records of who borrowed a given book and when.
+
+And all of this will be built in a beautiful and well-organized way!
+
 > This project is part of Microverse's 2.0 curriculum. A buggie program for a lucky contestant to decode using PRY. Following the guidelines of ![Microverse](https://img.shields.io/badge/Microverse2.0-blueviolet)[🔗](https://www.microverse.org/) for best practices.
 ---
 
@@ -27,10 +37,15 @@ To get the content of this project locally you need to run this command on your 
 
 - ` git clone git@github.com:sheylaPozo/schoolLibrary.git`
 
-### Usage
+### Prerequisites
 
-ruby index.rb
+- [Ruby](https://www.ruby-lang.org/en/)
 
+### Setup
+
+- Make sure you have Ruby IRB installed on your computer
+- Clone or download this repo on your machine
+- Enter project directory
 
 ## 🤍 Author:
 
