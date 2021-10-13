@@ -2,7 +2,8 @@
 ---
 ![](https://img.shields.io/github/followers/sheylaPozo?style=social)
 ---
-# schoolLibrary
+# OOP School Library 
+#### SchoolLibrary:
 
 Imagine that you are the librarian of OOP University, and you need a tool to record what books are in the library and who borrows them. The app that you will create will allow a you to:
 
@@ -68,7 +69,7 @@ Feel free to check the [issues page](https://github.com/schoolLibrary/issues).
 
 ## 🤍 Show your support
 
-Give a '⭐️' if you like this project!
+Give a `⭐️` if you like this project!
 
 ## 🤍 Acknowledgments
 
