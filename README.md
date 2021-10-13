@@ -60,3 +60,7 @@ Give a '⭐️' if you like this project!
 Hat tip to anyone whose code was used
 - Microverse
 - Inspiration
+
+## 📝 License
+
+This project is [MIT](./LICENSE.md) licensed.
