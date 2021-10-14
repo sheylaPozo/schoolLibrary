@@ -2,8 +2,8 @@
 ---
 ![](https://img.shields.io/github/followers/sheylaPozo?style=social)
 ---
-# OOP School Library 
-##### SchoolLibrary:
+# OOP School Library
+##### SchoolLibrary
 
 Imagine that you are the librarian of OOP University, and you need a tool to record what books are in the library and who borrows them. The app that you will create will allow a you to:
 
