@@ -2,13 +2,13 @@ class Rental
   attr_accessor :date
   attr_reader :book, :person
 
-  def initialize(date, book, person)
-    @date = date
+  def initialize(params)
+    @date = params[:date]
 
-    @book = book
+    @book = params[:book]
     book.rentals << self
 
-    @person = person
+    @person = params[:person]
     person.rentals << self
   end
 end
